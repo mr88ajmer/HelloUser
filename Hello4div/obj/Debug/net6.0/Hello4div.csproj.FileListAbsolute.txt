@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/Hello4div/bin/Debug/net6.0/Hello4div
+/home/ajmer/Документы/HelloUser/Hello4div/bin/Debug/net6.0/Hello4div.deps.json
+/home/ajmer/Документы/HelloUser/Hello4div/bin/Debug/net6.0/Hello4div.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/Hello4div/bin/Debug/net6.0/Hello4div.dll
+/home/ajmer/Документы/HelloUser/Hello4div/bin/Debug/net6.0/ref/Hello4div.dll
+/home/ajmer/Документы/HelloUser/Hello4div/bin/Debug/net6.0/Hello4div.pdb
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.dll
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/ref/Hello4div.dll
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.pdb
+/home/ajmer/Документы/HelloUser/Hello4div/obj/Debug/net6.0/Hello4div.genruntimeconfig.cache
