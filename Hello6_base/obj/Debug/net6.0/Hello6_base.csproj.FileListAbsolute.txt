@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/Hello6_base/bin/Debug/net6.0/Hello6_base
+/home/ajmer/Документы/HelloUser/Hello6_base/bin/Debug/net6.0/Hello6_base.deps.json
+/home/ajmer/Документы/HelloUser/Hello6_base/bin/Debug/net6.0/Hello6_base.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/Hello6_base/bin/Debug/net6.0/Hello6_base.dll
+/home/ajmer/Документы/HelloUser/Hello6_base/bin/Debug/net6.0/ref/Hello6_base.dll
+/home/ajmer/Документы/HelloUser/Hello6_base/bin/Debug/net6.0/Hello6_base.pdb
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.dll
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/ref/Hello6_base.dll
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.pdb
+/home/ajmer/Документы/HelloUser/Hello6_base/obj/Debug/net6.0/Hello6_base.genruntimeconfig.cache
