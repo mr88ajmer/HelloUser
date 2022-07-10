@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/seminarSharp/bin/Debug/net6.0/seminarSharp
+/home/ajmer/Документы/HelloUser/seminarSharp/bin/Debug/net6.0/seminarSharp.deps.json
+/home/ajmer/Документы/HelloUser/seminarSharp/bin/Debug/net6.0/seminarSharp.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/seminarSharp/bin/Debug/net6.0/seminarSharp.dll
+/home/ajmer/Документы/HelloUser/seminarSharp/bin/Debug/net6.0/ref/seminarSharp.dll
+/home/ajmer/Документы/HelloUser/seminarSharp/bin/Debug/net6.0/seminarSharp.pdb
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.dll
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/ref/seminarSharp.dll
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.pdb
+/home/ajmer/Документы/HelloUser/seminarSharp/obj/Debug/net6.0/seminarSharp.genruntimeconfig.cache
