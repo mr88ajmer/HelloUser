@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/bin/Debug/net6.0/SeminarSharp_1_DZzadacha2
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/bin/Debug/net6.0/SeminarSharp_1_DZzadacha2.deps.json
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/bin/Debug/net6.0/SeminarSharp_1_DZzadacha2.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/bin/Debug/net6.0/SeminarSharp_1_DZzadacha2.dll
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/bin/Debug/net6.0/ref/SeminarSharp_1_DZzadacha2.dll
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/bin/Debug/net6.0/SeminarSharp_1_DZzadacha2.pdb
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.dll
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/ref/SeminarSharp_1_DZzadacha2.dll
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.pdb
+/home/ajmer/Документы/HelloUser/SeminarSharp_1_DZzadacha2/obj/Debug/net6.0/SeminarSharp_1_DZzadacha2.genruntimeconfig.cache
