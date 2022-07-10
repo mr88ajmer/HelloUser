@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/bin/Debug/net6.0/Leksiya2_indexMassiv
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/bin/Debug/net6.0/Leksiya2_indexMassiv.deps.json
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/bin/Debug/net6.0/Leksiya2_indexMassiv.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/bin/Debug/net6.0/Leksiya2_indexMassiv.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/bin/Debug/net6.0/ref/Leksiya2_indexMassiv.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/bin/Debug/net6.0/Leksiya2_indexMassiv.pdb
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/ref/Leksiya2_indexMassiv.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.pdb
+/home/ajmer/Документы/HelloUser/Leksiya2_indexMassiv/obj/Debug/net6.0/Leksiya2_indexMassiv.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/Hellp7_magic/bin/Debug/net6.0/Hellp7_magic
+/home/ajmer/Документы/HelloUser/Hellp7_magic/bin/Debug/net6.0/Hellp7_magic.deps.json
+/home/ajmer/Документы/HelloUser/Hellp7_magic/bin/Debug/net6.0/Hellp7_magic.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/Hellp7_magic/bin/Debug/net6.0/Hellp7_magic.dll
+/home/ajmer/Документы/HelloUser/Hellp7_magic/bin/Debug/net6.0/ref/Hellp7_magic.dll
+/home/ajmer/Документы/HelloUser/Hellp7_magic/bin/Debug/net6.0/Hellp7_magic.pdb
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.dll
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/ref/Hellp7_magic.dll
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.pdb
+/home/ajmer/Документы/HelloUser/Hellp7_magic/obj/Debug/net6.0/Hellp7_magic.genruntimeconfig.cache

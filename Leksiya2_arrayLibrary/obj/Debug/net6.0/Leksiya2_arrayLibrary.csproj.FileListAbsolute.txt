@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/bin/Debug/net6.0/Leksiya2_arrayLibrary
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/bin/Debug/net6.0/Leksiya2_arrayLibrary.deps.json
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/bin/Debug/net6.0/Leksiya2_arrayLibrary.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/bin/Debug/net6.0/Leksiya2_arrayLibrary.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/bin/Debug/net6.0/ref/Leksiya2_arrayLibrary.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/bin/Debug/net6.0/Leksiya2_arrayLibrary.pdb
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/ref/Leksiya2_arrayLibrary.dll
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.pdb
+/home/ajmer/Документы/HelloUser/Leksiya2_arrayLibrary/obj/Debug/net6.0/Leksiya2_arrayLibrary.genruntimeconfig.cache

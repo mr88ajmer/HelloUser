@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/bin/Debug/net6.0/Hello5_ifElse
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/bin/Debug/net6.0/Hello5_ifElse.deps.json
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/bin/Debug/net6.0/Hello5_ifElse.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/bin/Debug/net6.0/Hello5_ifElse.dll
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/bin/Debug/net6.0/ref/Hello5_ifElse.dll
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/bin/Debug/net6.0/Hello5_ifElse.pdb
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.dll
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/ref/Hello5_ifElse.dll
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.pdb
+/home/ajmer/Документы/HelloUser/Hello5_ifElse/obj/Debug/net6.0/Hello5_ifElse.genruntimeconfig.cache
