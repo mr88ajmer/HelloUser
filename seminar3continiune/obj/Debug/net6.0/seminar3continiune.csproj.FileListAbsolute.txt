@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/seminar3continiune/bin/Debug/net6.0/seminar3continiune
+/home/ajmer/Документы/HelloUser/seminar3continiune/bin/Debug/net6.0/seminar3continiune.deps.json
+/home/ajmer/Документы/HelloUser/seminar3continiune/bin/Debug/net6.0/seminar3continiune.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/seminar3continiune/bin/Debug/net6.0/seminar3continiune.dll
+/home/ajmer/Документы/HelloUser/seminar3continiune/bin/Debug/net6.0/ref/seminar3continiune.dll
+/home/ajmer/Документы/HelloUser/seminar3continiune/bin/Debug/net6.0/seminar3continiune.pdb
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.dll
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/ref/seminar3continiune.dll
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.pdb
+/home/ajmer/Документы/HelloUser/seminar3continiune/obj/Debug/net6.0/seminar3continiune.genruntimeconfig.cache

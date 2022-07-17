@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "seminar3continiune/1.0.0": {
+        "runtime": {
+          "seminar3continiune.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminar3continiune/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
