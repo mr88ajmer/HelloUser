@@ -12,11 +12,11 @@ if (number.Length == 5)
 {
      if (number == revers)
      {
-        Console.WriteLine("является ли оно палиндромом - да");
+        Console.WriteLine($"является ли {number} палиндромом - да");
      }
      else
      {
-        Console.WriteLine("является ли оно палиндромом - нет");
+        Console.WriteLine($"является ли {number} палиндромом - нет");
      } 
 }
 else
