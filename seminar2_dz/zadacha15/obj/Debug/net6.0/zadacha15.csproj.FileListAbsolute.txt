@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/bin/Debug/net6.0/zadacha15
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/bin/Debug/net6.0/zadacha15.deps.json
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/bin/Debug/net6.0/zadacha15.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/bin/Debug/net6.0/zadacha15.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/bin/Debug/net6.0/ref/zadacha15.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/bin/Debug/net6.0/zadacha15.pdb
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/ref/zadacha15.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.pdb
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha15/obj/Debug/net6.0/zadacha15.genruntimeconfig.cache
