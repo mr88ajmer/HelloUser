@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/bin/Debug/net6.0/zadacha10
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/bin/Debug/net6.0/zadacha10.deps.json
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/bin/Debug/net6.0/zadacha10.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/bin/Debug/net6.0/zadacha10.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/bin/Debug/net6.0/ref/zadacha10.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/bin/Debug/net6.0/zadacha10.pdb
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/ref/zadacha10.dll
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.pdb
+/home/ajmer/Документы/HelloUser/seminar2_dz/zadacha10/obj/Debug/net6.0/zadacha10.genruntimeconfig.cache
