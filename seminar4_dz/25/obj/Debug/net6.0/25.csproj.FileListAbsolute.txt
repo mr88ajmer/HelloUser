@@ -1,0 +1,15 @@
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.csproj.AssemblyReference.cache
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.AssemblyInfoInputs.cache
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.AssemblyInfo.cs
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.csproj.CoreCompileInputs.cache
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/bin/Debug/net6.0/25
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/bin/Debug/net6.0/25.deps.json
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/bin/Debug/net6.0/25.runtimeconfig.json
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/bin/Debug/net6.0/25.dll
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/bin/Debug/net6.0/ref/25.dll
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/bin/Debug/net6.0/25.pdb
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.dll
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/ref/25.dll
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.pdb
+/home/ajmer/Документы/HelloUser/seminar4_dz/25/obj/Debug/net6.0/25.genruntimeconfig.cache
